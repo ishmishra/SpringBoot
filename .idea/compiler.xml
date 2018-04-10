@@ -10,8 +10,11 @@
         <module name="MessagingQueue" />
         <module name="RegExOperations" />
         <module name="SpringBoot" />
+        <module name="standaloneactivemqexample" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="8" />
+    <bytecodeTargetLevel target="8">
+      <module name="standalone-activemq-example" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

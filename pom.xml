@@ -13,6 +13,7 @@
         <module>RegExOperations</module>
         <module>SpringBoot</module>
         <module>MessagingQueue</module>
+        <module>standalone-activemq-example</module>
     </modules>
 
 
